@@ -42,7 +42,7 @@ export default function Portfolio() {
             <p className="text-sm italic text-gray-600">June 2022 – Present | Bengaluru, Karnataka</p>
             <ul className="list-disc list-inside mt-3 space-y-2 text-sm">
               <li>Designed ETL pipelines for 80+ SAP tables handling 1M+ records.</li>
-              <li>Led UT/SIT testing with <5% defect leakage and automation saving 70% processing time.</li>
+              <li>Led UT/SIT testing with {"<"}5% defect leakage and automation saving 70% processing time.</li>
               <li>Built 4 ERP automations with Alteryx saving 300+ client hours.</li>
               <li>Initiated GenAI tool PoCs and supported leadership presentations.</li>
             </ul>
@@ -59,7 +59,7 @@ export default function Portfolio() {
               <h4 className="text-xl font-bold">YouTube Data Analysis</h4>
               <p className="text-sm text-gray-600">Oct 2023 – Nov 2023</p>
               <ul className="list-disc list-inside mt-2 text-sm">
-                <li>Used AWS Glue, Athena, S3 & Quicksight to analyze and visualize global YouTube data.</li>
+                <li>Used AWS Glue, Athena, S3 {"&"} Quicksight to analyze and visualize global YouTube data.</li>
               </ul>
             </CardContent>
           </Card>
