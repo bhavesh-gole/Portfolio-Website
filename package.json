@@ -2,7 +2,7 @@
   "name": "bhavesh-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bhavesh-gole/Portfolio-Website",
+  "homepage": "https://bhavesh-gole.github.io/Portfolio-Website",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
